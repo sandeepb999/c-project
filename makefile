@@ -18,5 +18,3 @@ sort.o:sort.c
 	gcc -c sort.c
 fib.o:fib.c
 	gcc -c fib.c
-clean:
-	rm -rf *.o
